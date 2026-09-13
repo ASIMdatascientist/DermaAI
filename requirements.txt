@@ -6,3 +6,4 @@ numpy
 python-multipart
 sqlalchemy
 python-dotenv
+crewai
